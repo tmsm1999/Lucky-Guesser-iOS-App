@@ -8,4 +8,6 @@ Overall, it is a game where the player has to guess a generated number on the de
 
 [Link to the App Store] (https://itunes.apple.com/app/id1437721515)
 
+![Lucky Guesser App Screenshots]
+https://user-images.githubusercontent.com/20358441/46917307-8ad84d00-cfbd-11e8-8a4a-f67be5ea5a9a.png
 (https://user-images.githubusercontent.com/20358441/46917308-8ad84d00-cfbd-11e8-8685-f9a47ce457e7.png)
